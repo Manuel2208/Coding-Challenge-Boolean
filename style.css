@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.408);
+    width: 60%;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 65px;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    width: 24%;
+    margin-top: 70px;
+}
+
+header h1{
+    color: rgb(15, 215, 15);
+    text-align: center;
+}
+
+nav div{
+    background-color: rgb(15, 215, 15);
+    text-align: center;
+
+}
+
+.navigazione{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    height: 22px;
+    
+}
+
+section h2{
+    display: inline-block;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    color: white;
+    padding: 5px;
+}
+
+section p{
+    color: lightgray;
+}
+
+section div{
+    border-radius: 5px;
+    margin-bottom: 15px;
+    height: 25px;
+    margin-top: 5px;
+}
+
+.mono1 div{
+    background-color: rgb(226, 226, 80);
+    width: 250px;
+}
+
+.mono2 div{
+    background-color: rgb(107, 239, 55);
+    width: 500px;
+}
+
+.mono3 div{
+    background-color: rgb(246, 96, 63);
+    width: 70px;
+}
